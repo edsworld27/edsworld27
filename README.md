@@ -32,8 +32,3 @@ When a user taps your Instagram bio link:
 This is the **maximum success rate possible** without building a native app.
 
 ---
-
-## Live URLs
-
-### Root link
-Simple and clean:
